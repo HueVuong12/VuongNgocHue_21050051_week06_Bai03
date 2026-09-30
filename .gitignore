@@ -1,0 +1,8 @@
+target/
+build/
+.gradle/
+*.class
+*.war
+.idea/
+*.iml
+.DS_Store
